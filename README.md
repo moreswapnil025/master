@@ -1,4 +1,4 @@
-# master
+# Cognitive Scale Case Study
 
 ### API Service Implementation
 
