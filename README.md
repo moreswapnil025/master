@@ -2,6 +2,8 @@
 
 ## API Service Implementation
 
+Currently services hosted on AWS.
+
 ### Swagger URL for services implementation.
 
   http://18.222.25.123:8080/swagger-ui.html
