@@ -7,10 +7,10 @@
   http://18.222.25.123:8080/swagger-ui.html
 
 ### Implemented three following service 
-    LOGIN (POST) : Request URL : http://18.222.25.123:8080/login :
+     #### LOGIN (POST) : Request URL : http://18.222.25.123:8080/login :
       Request data for login  :  id and password
       for eg: {"id":1 "password" : "swapnil"} 
-    Register (POST) : Request URL : http://18.222.25.123:8080/register
+     #### Register (POST) : Request URL : http://18.222.25.123:8080/register
       Request data for register : 
         {
             "emailID": "string",
@@ -20,4 +20,4 @@
           "password": "string"
          }
 
-### Get Available Users (GET) : Request URL:  http://18.222.25.123:8080/users
+     #### Get Available Users (GET) : Request URL:  http://18.222.25.123:8080/users
